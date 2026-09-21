@@ -1,3 +1,14 @@
+⚠️ 1. Risco de Marca (importante antes de tudo): sim, nome generico que remeta a bajaj/pulsar
+⚠️ 2. Nome do Projeto: garaj
+
+⚠️ 3. Tamanho Real do MVP: sim
+✅ 4. Stack Tecnológica: estou sim
+
+✅ 5. Idioma do Admin: pt br
+
+
+
+
 https://polsia.com/dashboard/rodaquim-3
 
 # PROMPT MESTRE — PORTAL INDEPENDENTE DE CONHECIMENTO, PEÇAS E COMUNIDADE BAJAJ BRASIL
